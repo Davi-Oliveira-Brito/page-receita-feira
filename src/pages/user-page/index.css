@@ -1,0 +1,62 @@
+.mae{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF6F3C;
+    min-height: 100vh;
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80vw;
+    padding-bottom: 1em;
+    
+    background-color: #FFFFFF;
+}
+
+
+.sup img{
+    width: 100%;
+}
+
+.sub{
+    padding-top:2em ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.sup{
+    width:80vw ;
+    align-items: center;
+}
+
+.ingredientes{
+    display: flex;
+    flex-direction: column;
+    width: 20em;
+}
+
+.modopreparo{
+    display: flex;
+    flex-direction: column;
+    width: 35em;
+}
+
+.list li{
+    color: #000000;
+    font-family: 'Regular';
+    font-size: 12px;
+}
+
+.titulo{
+    color: #FF6F3C;
+    font-family: 'Semi-Bold';
+    font-size: 14px;
+}
+
+
+
+

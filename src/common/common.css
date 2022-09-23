@@ -1,0 +1,21 @@
+@font-face {
+    font-family:'Bold' ;
+    src: url('../assets/fonts/Poppins-Bold.ttf');
+}
+
+@font-face {
+    font-family:'Regular' ;
+    src: url('../assets/fonts/Poppins-Regular.ttf');
+}
+
+@font-face {
+    font-family:'Semi-Bold' ;
+    src: url('../assets/fonts/Poppins-SemiBold.ttf');
+}
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
